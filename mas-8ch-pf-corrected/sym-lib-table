@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "smallSkipperPF-rescue")(type "Legacy")(uri "/home/javiert/Dropbox/Skipper/blueprints/circuits/smallSkipperPF/smallSkipperPF-rescue.lib")(options "")(descr ""))
+  (lib (name "qis_8ch_inline_pf-rescue")(type "KiCad")(uri "${KIPRJMOD}/qis_8ch_inline_pf-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "mas_8ch_pf-rescue")(type "KiCad")(uri "${KIPRJMOD}/mas_8ch_pf-rescue.kicad_sym")(options "")(descr ""))
+)
